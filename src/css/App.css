@@ -1,0 +1,63 @@
+/* Estilos para o arquivo index.html */
+
+/* Estilo do corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilo do cabeçalho */
+  header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Estilo dos links */
+  a {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Estilo da seção principal */
+  section {
+    padding: 20px;
+  }
+  
+  /* Estilo dos títulos */
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Estilo das listas */
+  ul {
+    list-style-type: square;
+    margin-left: 20px;
+  }
+  
+  /* Estilo das imagens */
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  /* Estilo do rodapé */
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
